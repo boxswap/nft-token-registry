@@ -1,0 +1,27 @@
+{
+	"0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d": {
+		"name": "AXIE Infinity",
+		"symbol": "AXIE",
+		"type": "erc721",
+		"tokenMetadataUrl": "https://axieinfinity.com/erc/721/axies/{tokenid}.json"
+	},
+	"0x06012c8cf97bead5deae237070f9587f8e7a266d": {
+		"name": "CryptoKitties",
+		"symbol": "CK",
+		"type": "erc721a",
+		"tokenMetadataUrl": "https://api.cryptokitties.co/kitties/{tokenid}"
+	},
+	"0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d": {
+		"tokenMetadataUrlFromContract": "tokenMetadata(uint256 tokenID)",
+		"name": "Decentraland",
+		"symbol": "LAND",
+		"type": "erc721",
+		"tokenMetadataUrl": "https://api.decentraland.org/v1/parcels/{x}/{y}"
+	},
+	"0x8c9b261faef3b3c2e64ab5e58e04615f8c788099": {
+		"name": "MLBCryptobaseball",
+		"symbol": "MLBC",
+		"type": "erc721",
+		"tokenMetadataUrl": "https://api-dot-cryptobaseball-b691f.appspot.com/playerId/{tokenid}"
+	}
+}
