@@ -11,6 +11,12 @@
 		"type": "erc721a",
 		"tokenMetadataUrl": "https://api.cryptokitties.co/kitties/{tokenid}"
 	},
+	"0x4d3814d4da8083b41861dec2f45b4840e8b72d68": {
+		"name": "CryptoSpaceCommanders",
+		"symbol": "CSC",
+		"type": "erc721",
+		"tokenMetadataUrl": "https://dapp-engine-api-dot-river-octagon-223922.appspot.com/getAsset/?contract=0x4d3814d4da8083b41861dec2f45b4840e8b72d68&assetId={tokenid}"
+	},
 	"0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d": {
 		"tokenMetadataUrlFromContract": "tokenMetadata(uint256 tokenID)",
 		"name": "Decentraland",
