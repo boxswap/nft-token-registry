@@ -24,11 +24,11 @@
 		"tokenMetadataUrl": "https://dapp-engine-api-dot-river-octagon-223922.appspot.com/getAsset/?contract=0x4d3814d4da8083b41861dec2f45b4840e8b72d68&assetId={tokenid}"
 	},
 	"0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d": {
-		"tokenMetadataUrlFromContract": "tokenMetadata(uint256 tokenID)",
 		"name": "Decentraland",
 		"symbol": "LAND",
 		"type": "erc721",
-		"tokenMetadataUrl": "https://api.decentraland.org/v1/parcels/{x}/{y}"
+		"tokenMetadataUrl": "https://api.decentraland.org/v1/parcels/{x}/{y}",
+		"tokenMetadataUrlFromContract": "tokenMetadata(uint256 tokenID)"
 	},
 	"0x4f41d10f7e67fd16bde916b4a6dc3dd101c57394": {
 		"name": "Flower",
@@ -46,6 +46,12 @@
 		"symbol": "MLBC",
 		"type": "erc721",
 		"tokenMetadataUrl": "https://api-dot-cryptobaseball-b691f.appspot.com/playerId/{tokenid}"
+	},
+	"0xb8131617325c6f1f7729a4e2df8551cb44ddf76b": {
+		"name": "Mythereum",
+		"symbol": "MYTH",
+		"type": "erc721",
+		"tokenMetadataUrl": "https://mythereum.io/api/cards/{tokenId}"
 	},
 	"0x1276dce965ada590e42d62b3953ddc1ddceb0392": {
 		"name": "NeonDistrict",

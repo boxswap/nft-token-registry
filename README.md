@@ -1,10 +1,11 @@
 # NFT Token Registry
-A collection of data on NFT tokens that give users on which tokens can be supported for what usecase and 
-also information on how to get token metadata. 
+A collection of data on NFT tokens that give users information such as supported standards and 
+alternative ways to get token metadata. 
 
 ## Submission Proccess
 1. Fork this repository.<br/>
 2. Add Submission<br/>
+
 Sample Submission: <br/>
 
 ```json
