@@ -5,6 +5,12 @@
 		"type": "erc721",
 		"tokenMetadataUrl": "https://axieinfinity.com/erc/721/axies/{tokenid}.json"
 	},
+	"0x71c118b00759b0851785642541ceb0f4ceea0bd5": {
+		"name": "CHIBIFIGHTERS",
+		"symbol": "CHIBI",
+		"type": "erc721ab",
+		"tokenMetadataUrl": "https://chibigame.io/chibis.php?idj={tokenid}"
+	},
 	"0x06012c8cf97bead5deae237070f9587f8e7a266d": {
 		"name": "CryptoKitties",
 		"symbol": "CK",
@@ -24,10 +30,27 @@
 		"type": "erc721",
 		"tokenMetadataUrl": "https://api.decentraland.org/v1/parcels/{x}/{y}"
 	},
+	"0x4f41d10f7e67fd16bde916b4a6dc3dd101c57394": {
+		"name": "Flower",
+		"symbol": "FLOWER",
+		"type": "erc721",
+		"tokenMetadataUrl": "https://flowerpatch.app/render/flower-{tokenid}"
+	},
+	"0x1d963688fe2209a98db35c67a041524822cf04ff": {
+		"name": "MarbleCards",
+		"symbol": "MRBL",
+		"type": "erc721"
+	},
 	"0x8c9b261faef3b3c2e64ab5e58e04615f8c788099": {
-		"name": "MLBCryptobaseball",
+		"name": "MLBChampions",
 		"symbol": "MLBC",
 		"type": "erc721",
 		"tokenMetadataUrl": "https://api-dot-cryptobaseball-b691f.appspot.com/playerId/{tokenid}"
+	},
+	"0x1276dce965ada590e42d62b3953ddc1ddceb0392": {
+		"name": "NeonDistrict",
+		"symbol": "NEON",
+		"type": "erc721",
+		"tokenMetadataUrlFromContract": "tokenURI(uint256 tokenID)"
 	}
 }
