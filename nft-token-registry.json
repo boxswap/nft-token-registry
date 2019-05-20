@@ -64,5 +64,17 @@
 		"symbol": "NEON",
 		"type": "erc721",
 		"tokenMetadataUrlFromContract": "tokenURI(uint256 tokenID)"
+	},
+	"0xfbeef911dc5821886e1dda71586d90ed28174b7d": {
+		"name": "KnownOrigin",
+		"symbol": "KODA",
+		"type": "erc721",
+		"tokenMetadataUrlFromContract": "tokenURI(uint256 tokenID)"
+	},
+	"0x2f2d5aA0EfDB9Ca3C9bB789693d06BEBEa88792F": {
+		"name": "BlockCities",
+		"symbol": "BKC",
+		"type": "erc721",
+		"tokenMetadataUrlFromContract": "tokenURI(uint256 tokenID)"
 	}
 }
