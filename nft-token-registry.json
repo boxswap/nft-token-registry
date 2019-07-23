@@ -81,5 +81,12 @@
 		"name": "Wrapped CryptoKitties",
 		"symbol": "WCK",
 		"type": "erc20"
+	},
+	"0x1d963688FE2209A98dB35C67A041524822Cf04ff": {
+		"name": "MarbleCards (MARBLE-NFT)",
+		"symbol": "MRBLNFT",
+		"type": "erc721",
+		"tokenMetadataUrlFromContract": "tokenURI(uint256 tokenID)",
+		"websiteUrl": "https://marble.cards"
 	}
 }
