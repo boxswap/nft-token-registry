@@ -88,5 +88,12 @@
 		"type": "erc721",
 		"tokenMetadataUrlFromContract": "tokenURI(uint256 tokenID)",
 		"websiteUrl": "https://marble.cards"
+	},
+	"0x7fc0552df341Fe7052eFC8A2806A7c9bdDeb23D0": {
+		"name": "Kingdoms Beyond",
+		"symbol": "KB",
+		"type": "erc721",
+		"tokenMetadataUrl": "https://www.kingdomsbeyond.com/_api/v1/token/getAssetDetail/{tokenid}",
+		"tokenMetadataUrlFromContract": "tokenURI(uint256 _tokenId)"
 	}
 }
